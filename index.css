@@ -1,1 +1,26 @@
-
+*{
+  background: hwb(0 11% 89%) 
+}
+.عنوان1{
+  color: hwb(0 100% 0%);
+  font-size: 35px;
+  text-align: center;
+}
+.نص{
+  color: hwb(0 100% 0%);
+  font-size: 15px;
+  text-align: right;
+}
+.عنوان2{
+  color: hwb(0 100% 0%);
+}
+.عنوان3{
+  color: hwb(0 100% 0%);
+  font-size: 20px;
+  text-align: center;
+}
+.رابط{
+  color:hwb(260 0% 30%);
+  text-align: center;
+  text-decoration: none;
+}
