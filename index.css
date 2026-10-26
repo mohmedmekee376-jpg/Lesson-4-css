@@ -23,4 +23,10 @@
   color:hwb(260 0% 30%);
   text-align: center;
   text-decoration: none;
+  display: block;
+}
+.صوره{
+  text-align: center;
+  display: block;
+  margin: auto;
 }
